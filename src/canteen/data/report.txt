@@ -1,0 +1,4 @@
+====== DAILY REPORT ======
+Total Orders: 3
+Cancelled: 0
+Total Revenue: Rs.2871.38

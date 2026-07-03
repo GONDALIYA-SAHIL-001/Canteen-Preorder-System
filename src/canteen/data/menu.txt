@@ -1,0 +1,12 @@
+VEG,Dal Chawal,50.0,true,false
+VEG,Paneer Sabji Roti,70.0,true,false
+VEG,Jain Thali,65.0,true,true
+VEG,Aloo Paratha,45.0,true,false
+VEG,Chole Rice,55.0,true,false
+NONVEG,Chicken Curry Rice,100.0,true,Chicken
+NONVEG,Egg Bhurji Roti,60.0,true,Egg
+NONVEG,Mutton Curry Rice,120.0,true,Mutton
+BEVERAGE,Chai,15.0,true,hot
+BEVERAGE,Cold Coffee,40.0,true,cold
+BEVERAGE,Lassi,30.0,true,cold
+BEVERAGE,Fresh Lime Soda,25.0,true,cold
