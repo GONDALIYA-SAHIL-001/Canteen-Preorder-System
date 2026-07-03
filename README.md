@@ -80,4 +80,4 @@ CanteenPreorderSystem/
         │   ├── Token.java             # Handles unique token generation
         │   └── VegItem.java           # Extends FoodItem
         │
-        └── Main.java                  
+        └── Main.java
